@@ -1,0 +1,13 @@
+D:\C++Projects\DIMASIK\DIMASIK\bin\Debug\netcoreapp3.1\DIMASIK.exe
+D:\C++Projects\DIMASIK\DIMASIK\bin\Debug\netcoreapp3.1\DIMASIK.deps.json
+D:\C++Projects\DIMASIK\DIMASIK\bin\Debug\netcoreapp3.1\DIMASIK.runtimeconfig.json
+D:\C++Projects\DIMASIK\DIMASIK\bin\Debug\netcoreapp3.1\DIMASIK.runtimeconfig.dev.json
+D:\C++Projects\DIMASIK\DIMASIK\bin\Debug\netcoreapp3.1\DIMASIK.dll
+D:\C++Projects\DIMASIK\DIMASIK\bin\Debug\netcoreapp3.1\DIMASIK.pdb
+D:\C++Projects\DIMASIK\DIMASIK\obj\Debug\netcoreapp3.1\DIMASIK.csproj.AssemblyReference.cache
+D:\C++Projects\DIMASIK\DIMASIK\obj\Debug\netcoreapp3.1\DIMASIK.AssemblyInfoInputs.cache
+D:\C++Projects\DIMASIK\DIMASIK\obj\Debug\netcoreapp3.1\DIMASIK.AssemblyInfo.cs
+D:\C++Projects\DIMASIK\DIMASIK\obj\Debug\netcoreapp3.1\DIMASIK.csproj.CoreCompileInputs.cache
+D:\C++Projects\DIMASIK\DIMASIK\obj\Debug\netcoreapp3.1\DIMASIK.dll
+D:\C++Projects\DIMASIK\DIMASIK\obj\Debug\netcoreapp3.1\DIMASIK.pdb
+D:\C++Projects\DIMASIK\DIMASIK\obj\Debug\netcoreapp3.1\DIMASIK.genruntimeconfig.cache
